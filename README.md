@@ -1,5 +1,6 @@
  Olá meu nome é Isaac!
  Estou cursando o 3 ano Desenvolvimento de sistemas
+ Meus hobbies são Jogar, ouvir música e assistir filmes/séries
 ###
 
 </div>
