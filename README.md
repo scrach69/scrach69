@@ -32,7 +32,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://gifsec.com/wp-content/uploads/2023/01/shrek-gif-1.gif"  />
+  <img height="200" src="<div class="tenor-gif-embed"
 </div>
 
 ###
